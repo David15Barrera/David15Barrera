@@ -18,7 +18,7 @@
   </a>
 </div>
 
-<div align="center">
+
   <!-- Lenguajes -->
   <div style="float: left; text-align: center;">
     <h3>Languages</h3>
@@ -58,7 +58,7 @@
   
   <!-- Herramientas -->
   <div style="clear: both; text-align: center; margin-top: 20px;">
-    <h3>Herramientas</h3>
+    <h3>Databases</h3>
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
     <img width="12" />
@@ -67,7 +67,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="microsoftsqlserver logo"  />
   </div>
-</div>
 
 
 
