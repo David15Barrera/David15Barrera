@@ -18,7 +18,7 @@
   </a>
 </div>
 
-
+<div align="center">
   <!-- Lenguajes -->
   <div style="float: left; text-align: center;">
     <h3>Languages</h3>
@@ -56,7 +56,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo" />
   </div>
   
-  <!-- Herramientas -->
+  <!-- Databases -->
   <div style="clear: both; text-align: center; margin-top: 20px;">
     <h3>Databases</h3>
     <img width="12" />
@@ -67,6 +67,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="microsoftsqlserver logo"  />
   </div>
+</div>
 
 
 
