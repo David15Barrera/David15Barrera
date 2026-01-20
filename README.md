@@ -6,11 +6,9 @@ I'm a developer focused on building scalable services and understanding the full
 ---
 
 ### 🚀 What I've been doing lately
-* **Java & Spring Boot:** Building microservices and handling data persistence with PostgreSQL.
-* **Cloud & DevOps:** Containerizing apps with Docker and exploring deployments on GCP (Cloud Run, GKE) and AWS (EC2, S3).
-* **Architecture:** Focusing on layered patterns while exploring Event-Driven systems (Kafka) and DDD.
-* **Frontend:** Building functional, reactive UIs with Angular and TypeScript when the project needs it.
-
+* **Backend & Architecture:** Specializing in **Java/Spring Boot** with a focus on **DDD** and asynchronous messaging using **RabbitMQ**.
+* **Frontend & Design:** Crafting responsive UIs with **Angular and React**, prioritizing **UX/UI principles** and efficient state management.
+* **Cloud & DevOps:** Containerizing services with **Docker** and deploying to **GCP** and **AWS**.
 ---
 
 ### 🛠️ Tech Stack
@@ -69,8 +67,20 @@ I'm a developer focused on building scalable services and understanding the full
 
 ### 📫 Connect with me
 <p align="center">
-<a href="https://www.linkedin.com/in/david-barrera-94bb86358/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" alt="david-barrera" height="30" width="40" /></a>
-<a href="https://x.com/danribl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" alt="danribl" height="30" width="40" /></a>
-<a href="https://www.instagram.com/danribl/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" alt="danribl" height="30" width="40" /></a>
-<a href="mailto:david1315Barrera@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" alt="david-barrera" height="30" width="40" /></a>
+<!--LINKEDIN-->
+  <a href="https://www.linkedin.com/in/david-barrera-94bb86358/" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo" />
+  </a>
+<!--X-->
+  <a href="https://x.com/danribl" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="47" height="35" alt="twitter logo" />
+  </a>
+  <!--INSTAGRAM-->
+  <a href="https://www.instagram.com/danribl/" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo" />
+  </a>
+<!--GMAIL-->
+  <a href="mailto:david1315Barrera@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo" />
+  </a>
 </p>
