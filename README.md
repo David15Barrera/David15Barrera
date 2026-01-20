@@ -1,7 +1,7 @@
 # Hi, I'm David Barrera 👋
 ### Full Stack Developer from Guatemala
 
-I'm a developer focused on building scalable services and understanding the full lifecycle of software—from system architecture to deployment. I enjoy solving complex problems and building robust backend systems without losing sight of the user experience.
+I'm a developer focused on building scalable services and understanding the full lifecycle of software from system architecture to deployment. I enjoy solving complex problems and building robust backend systems without losing sight of the user experience.
 
 ---
 
