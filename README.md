@@ -1,7 +1,6 @@
 # Hi, I'm David Barrera 👋
 ### Full Stack Developer from Guatemala
----
-**Explore my work:** [portafolio-web-liart-six.vercel.app](https://portafolio-web-liart-six.vercel.app)
+### Explore my work:** [portafolio-web-liart-six.vercel.app](https://portafolio-web-liart-six.vercel.app)
 ---
 
 I'm a full-stack developer focused on building scalable backend services and intuitive frontend experiences. I enjoy working across the entire software lifecycle, from system design and API development to responsive interfaces and deployment, always keeping performance and user experience in mind.
